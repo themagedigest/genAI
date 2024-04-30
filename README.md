@@ -1,4 +1,4 @@
-This is the model where an image content can be showcased as an audio. Below 2 models have been merged and I beleive it may have many applications mostly to the specially abled people.
+This is the model where an image content can be showcased as an audio. Below 2 models have been merged and I believe they may have many useful applications mostly to specially-abled people.
 
 Credits and model used :
 1. Image caption capture model - https://huggingface.co/Salesforce/blip-image-captioning-base
